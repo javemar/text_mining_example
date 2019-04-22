@@ -5,6 +5,7 @@ This is a example to practice text mining sentimental analysis.
 ## Data
 
 All the date is of ACL paper 
+http://ai.stanford.edu/~amaas/data/sentiment/
 
 @InProceedings{maas-EtAl:2011:ACL-HLT2011,
   author    = {Maas, Andrew L.  and  Daly, Raymond E.  and  Pham, Peter T.  and  Huang, Dan  and  Ng, Andrew Y.  and  Potts, Christopher},
